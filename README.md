@@ -1,4 +1,6 @@
-Regression Models Course Project - Motor Trend
+Coursera
+Regression Models 
+Project 1
 ==============================================
 
 ### Assignment  
