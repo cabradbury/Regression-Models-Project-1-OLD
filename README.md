@@ -1,6 +1,4 @@
-Coursera
-Regression Models 
-Project 1
+Coursera - Regression Models Project 1
 ==============================================
 
 ### Assignment  
